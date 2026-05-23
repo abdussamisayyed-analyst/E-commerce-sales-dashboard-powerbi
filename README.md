@@ -68,7 +68,7 @@ The datasets contain:
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
+![Dashboard Preview](E-commerce%20Dashboard.png)
 
 ---
 
