@@ -94,5 +94,6 @@ This project was created to practice:
 ## 👨‍💻 Author
 ABDUSSAMI SAYYED
 
-GitHub:
+🔗 LinkedIn: 
+GitHub: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
 https://github.com/abdussamisayyed-analyst
